@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate software developer from the UK</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=george404error&label=Profile%20views&color=0e75b6&style=flat" alt="GeorgeFinch1234" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=georgefinch1234&label=Profile%20views&color=0e75b6&style=flat" alt="GeorgeFinch1234" /> </p>
 <p align="center">
 - 👨‍💻 All of my projects are available here or at https://github.com/george5656 (My Uni Github)
 </p>
