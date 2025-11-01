@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software developer from the UK</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=georgefinch1234&label=Profile%20views&color=0e75b6&style=flat" alt="GeorgeFinch1234" /> </p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&random=true&width=435&lines=Continuously+learning;Continuously+improving;Continuously+problem-solving;Continuously+building" alt="Typing SVG" /></p>
 <p align="center">
 - 👨‍💻 All of my projects are available here or at https://github.com/george5656 (My Uni Github)
 </p>
