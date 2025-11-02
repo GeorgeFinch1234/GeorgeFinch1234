@@ -18,13 +18,11 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeFinch1234&show_icons=true&locale=en&layout=compact" alt="george404error" /></p>
-<div align="center"> 
-<a href="">
-![Codewars](https://github.r2v.ch/codewars?user=George6789&stroke=COLOR&top_languages=true&theme=gradient)
-</a>
-  
+<div align="center">
+  <a href="https://www.codewars.com/users/George6789">
+    <img src="https://github.r2v.ch/codewars?user=George6789&stroke=COLOR&top_languages=true&theme=gradient" alt="Codewars" />
+  </a>
 </div>
-
 
 
 
